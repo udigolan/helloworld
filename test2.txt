@@ -1,3 +1,4 @@
 Some text
 this is more
 This is a commit into the master
+This is another commit to master
